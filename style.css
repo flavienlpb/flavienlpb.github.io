@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(123, 145, 185);
+    font-family: 'Slabo 27px', serif;
+}
+img{
+    width: 60%;
+    height: auto;
+}
+.image1{
+    width: 40%;
+    height: auto;
+}    
+div{
+    background-color: yellow;
+    text-align:center
+}
+.image4{
+    width: 04%;
+    height: auto;
+}
